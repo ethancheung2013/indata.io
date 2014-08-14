@@ -7,3 +7,4 @@ tests.py
 settings.py
 urls.py
 wsgi.py
+gitignore
